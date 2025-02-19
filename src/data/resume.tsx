@@ -64,7 +64,7 @@ export const DATA = {
   education: [
     {
       school: "SMK Negeri 2 Yogyakarta",
-      href: "https://buildspace.sohttps://www.smk2-yk.sch.id/",
+      href: "https://www.smk2-yk.sch.id/",
       degree: "Jurusan Sistem Informasi Jaringan dan Aplikasi",
       logoUrl: "smk.jpeg",
       start: "2022",
