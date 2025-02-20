@@ -4,7 +4,7 @@ import { title } from "process";
 
 export const DATA = {
   name: "Andree Agustian Wenas",
-  initials: "DV",
+  initials: "",
   url: "https://dillion.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
